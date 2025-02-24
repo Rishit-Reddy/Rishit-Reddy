@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a Computer Science graduate passionate about building scalable and efficient software solutions. My experience spans Python programming, full-stack development, cloud computing, and more.  
 
+###Profile Views - ![](https://komarev.com/ghpvc/?username=Rishit-Reddy)
+
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit-Reddy&layout=compact&theme=radical)
 
